@@ -189,7 +189,7 @@ span:nth-child(1){
     position: absolute;
     width: 150px;
     height: 150px;
-    left: 15.5rem;
+    left: 16rem;
     top: 48px;
     background: #7C15FF;
     border-radius: 25px;
@@ -200,7 +200,7 @@ span:nth-child(2){
     width: 150px;
     height: 150px;
     top: 188px;
-    left: 6.4rem;
+    left: 6.8rem;
     background: #fff;
     border-radius: 25px;
 }
@@ -210,7 +210,7 @@ span:nth-child(3){
     position: absolute;
     width: 130px;
     height: 130px;
-    left: 16rem;
+    left: 16.4rem;
     top: 12.6rem;
     border-radius: 50%;
     background: #FF2EC5;
@@ -221,7 +221,7 @@ span:nth-child(4){
     width: 150px;
     height: 150px;
     top: 190px;
-    left: 24.6rem;
+    left: 24.8rem;
     background: #BC88FF;
     border-radius: 25px;
 }
@@ -230,7 +230,7 @@ span:nth-child(5){
     position: absolute;
     width: 150px;
     height: 150px;
-    left: 15.6rem;
+    left: 16rem;
     top: 335px;
     background: #6503E2;
     border-radius: 25px;
@@ -240,7 +240,7 @@ span:nth-child(6){
     position: absolute;
     width: 130px;
     height: 130px;
-    left: 7.2rem;
+    left: 7.6rem;
     top: 21.4rem;
     border-radius: 50%;
     background: #16FFFF;
@@ -250,7 +250,7 @@ span:nth-child(7){
     position: absolute;
     width: 150px;
     height: 150px;
-    left: -2.6rem;
+    left: -2.2rem;
     top: 340px;
     background: #ED9D02;
     border-radius: 25px;
@@ -260,7 +260,7 @@ span:nth-child(8){
     position: absolute;
     width: 150px;
     height: 150px;
-    left: 6.4rem;
+    left: 6.8rem;
     top: 480px;
     background: #E9FFFF;
     border-radius: 25px;
